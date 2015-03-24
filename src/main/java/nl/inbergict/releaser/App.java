@@ -33,8 +33,8 @@ public class App
 		new FreeMarkerEngine());
         
         String url = "http://redmine.knmi.nl/svn/wp11-svn";
-        String name = "inberg";
-        String password = "pwd_1138";
+        String name = "test";
+        String password = "test";
                 
         SVNRepository repository = null;
         try {
